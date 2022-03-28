@@ -2,6 +2,14 @@
 
 Proyecto para arrancar una aplicación con Express.js
 
+# Instalación
+
+1 - Clonamos el repositorio: https://github.com/cruizfer/express-boilerplate.git
+
+2 - Lanzamos el comando **npm install**
+
+3 - Lanzamos el comando **npm run folders**
+
 ## bin/server.js
 
 Fichero con la creación del servidor.
